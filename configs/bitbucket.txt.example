@@ -1,0 +1,8 @@
+HOST=bitbucket.org
+GITHUB_TOKEN=username:app_password
+GIT_AUTHOR_EMAIL=myname@example.com
+GIT_AUTHOR_NAME=My Name
+GIT_COMMITTER_EMAIL=myname@example.com
+GIT_COMMITTER_NAME=My Name
+REPO=user/myrepo
+BRANCH=master
